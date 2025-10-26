@@ -1,8 +1,11 @@
 ---
 title: "ကိုယ့်အတွက် Summer 2025 season ရဲ့ hidden gem anime တစ်ခု"
 author: "WadamT"
-date: "2025-09-04"
+date: "2025-08-23"
 tags: ["anime"]
+cover:
+   image: images/betrothed-to-my-sister-ex-cover.webp
+   alt: A poster where black hair duke character is holding red hair female MC hand
 ---
 **Betrothed to My Sister's Ex**
 
