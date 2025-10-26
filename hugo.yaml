@@ -1,0 +1,61 @@
+baseURL: "https://blog.wadamtree.xyz"
+languageCode: en-US
+title: WadamT Blog
+theme: ["PaperMod"]
+
+pagination:
+  pagerSize: 6
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 6
+        - name: Search
+          url: search/
+          weight: 10
+
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        useEmbedded: always
+      link:
+        useEmbedded: always
+
+params:
+  defaultTheme: auto
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true 
+
+  homeInfoParams:
+    Title: Welcome to WadamT Blog wave
+    Content: Writing whatever I find interesting, mostly about anime
+
+  socialIcons:
+    - name: "mastodon"
+      url: "https://burma.social/@wadam_t"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
