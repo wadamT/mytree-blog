@@ -20,7 +20,10 @@ languages:
           weight: 6
         - name: Search
           url: search/
-          weight: 10
+          weight: 7
+        - name: RSS
+          url: /rss
+          weight: 8
 
 markup:
   goldmark:
@@ -43,7 +46,7 @@ params:
     favicon48x48: favicon-48x48.png
 
   cover:
-    hidden: true
+    hiddenInList: true
 
   homeInfoParams:
     Title: Welcome to WadamT Blog wave
