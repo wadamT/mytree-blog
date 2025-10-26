@@ -31,10 +31,19 @@ markup:
         useEmbedded: always
 
 params:
+  env: production
   defaultTheme: auto
   ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true 
+
+  assets:
+    favicon: favicon-16x16.png
+    favicon16x16: favicon-16x16.png
+    favicon48x48: favicon-48x48.png
+
+  cover:
+    hidden: true
 
   homeInfoParams:
     Title: Welcome to WadamT Blog wave
