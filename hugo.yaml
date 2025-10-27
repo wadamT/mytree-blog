@@ -1,7 +1,8 @@
 baseURL: localhost
-languageCode: en-US
+languageCode: my
 title: WadamT Blog
 theme: ["PaperMod"]
+enableEmoji: true
 
 pagination:
   pagerSize: 6
@@ -9,38 +10,43 @@ pagination:
 languages:
   my:
     languageName: "မြန်မာ"
+    contentDir: content/my
     weight: 1
     menu:
       main:
-        - name: Archive
-          url: archives
+        - name: မော်ကွန်း
+          url: /archives
           weight: 5
-        - name: Tags
-          url: tags/
+        - name: မှတ်ချက်
+          url: my/tags/
           weight: 6
-        - name: 🔍︎
-          url: search/
+        - name: ရှာဖွေရန်
+          url: my/search/
           weight: 7
-        - name: RSS
-          url: index.xml
-          weight: 8
+    params:
+      homeInfoParams:
+          Title: မင်္ဂလာပါ
+          Content: စိတ်ဝင်စားစရာ တွေ့သမျှရေးမည်။ အထူးသဖြင့် anime အကြောင်း
+
   en:
     languageName: "English"
-    weight: 2
+    contentDir: content/en
+    weight: 10
     menu:
       main:
         - name: Archive
-          url: archives
+          url: /archives
           weight: 5
         - name: Tags
-          url: tags/
+          url: en/tags/
           weight: 6
-        - name: 🔍︎
-          url: search/
+        - name: Search
+          url: en/search/
           weight: 7
-        - name: RSS
-          url: index.xml
-          weight: 8
+    params:
+      homeInfoParams:
+          Title: Welcome
+          Content: Writing whatever I find interesting, mostly about anime
 
 markup:
   goldmark:
@@ -55,7 +61,9 @@ params:
   defaultTheme: auto
   ShowShareButtons: false
   ShowReadingTime: true
-  ShowPostNavLinks: true 
+  ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
+  ShowPageNums: true
   displayFullLangName: true
 
   assets:
@@ -66,10 +74,6 @@ params:
 
   cover:
     hiddenInList: true
-
-  homeInfoParams:
-    Title: Welcome 👋
-    Content: Writing whatever I find interesting, mostly about anime
 
   socialIcons:
     - name: "mastodon"
