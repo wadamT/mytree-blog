@@ -1,4 +1,4 @@
-baseURL: "http://blog.wadamtree.xyz"
+baseURL: localhost
 languageCode: en-US
 title: WadamT Blog
 theme: ["PaperMod"]
@@ -7,8 +7,8 @@ pagination:
   pagerSize: 6
 
 languages:
-  en:
-    languageName: "English"
+  my:
+    languageName: "မြန်မာ"
     weight: 1
     menu:
       main:
@@ -18,7 +18,24 @@ languages:
         - name: Tags
           url: tags/
           weight: 6
-        - name: Search
+        - name: 🔍︎
+          url: search/
+          weight: 7
+        - name: RSS
+          url: index.xml
+          weight: 8
+  en:
+    languageName: "English"
+    weight: 2
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 6
+        - name: 🔍︎
           url: search/
           weight: 7
         - name: RSS
@@ -39,6 +56,7 @@ params:
   ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true 
+  displayFullLangName: true
 
   assets:
     favicon: favicon-16x16.png
@@ -50,7 +68,7 @@ params:
     hiddenInList: true
 
   homeInfoParams:
-    Title: Welcome to WadamT Blog wave
+    Title: Welcome 👋
     Content: Writing whatever I find interesting, mostly about anime
 
   socialIcons:
