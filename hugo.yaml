@@ -3,6 +3,8 @@ languageCode: my
 title: WadamT Blog
 theme: ["PaperMod"]
 enableEmoji: true
+DefaultContentLanguage: "my"
+defaultContentLanguageInSubdir: false
 
 pagination:
   pagerSize: 6
@@ -12,16 +14,18 @@ languages:
     languageName: "မြန်မာ"
     contentDir: content/my
     weight: 1
+    taxonomies:
+      tag: tags
     menu:
       main:
         - name: မော်ကွန်း
-          url: /archives
+          url: archives/
           weight: 5
         - name: မှတ်ချက်
-          url: my/tags/
+          url: tags/
           weight: 6
         - name: ရှာဖွေရန်
-          url: my/search/
+          url: search/
           weight: 7
     params:
       homeInfoParams:
@@ -32,16 +36,18 @@ languages:
     languageName: "English"
     contentDir: content/en
     weight: 10
+    taxonomies:
+      tag: tags
     menu:
       main:
         - name: Archive
-          url: /archives
+          url: archives/
           weight: 5
         - name: Tags
-          url: en/tags/
+          url: tags/
           weight: 6
         - name: Search
-          url: en/search/
+          url: search/
           weight: 7
     params:
       homeInfoParams:
@@ -62,8 +68,10 @@ params:
   ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true
+  showTranslations: false
   ShowRssButtonInSectionTermList: true
   ShowPageNums: true
+  ShowWordCount: true
   displayFullLangName: true
 
   assets:
