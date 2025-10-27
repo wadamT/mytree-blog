@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open("GET", "https://example.com/index.json");
+    xhr.open("GET", "https://blog.wadamtree.xyz/index.json");
     xhr.send();
 }
 
