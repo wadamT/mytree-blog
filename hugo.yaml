@@ -1,4 +1,4 @@
-baseURL: localhost
+baseURL: "https://blog.wadamtree.xyz"
 languageCode: my
 title: WadamT Blog
 theme: ["PaperMod"]
@@ -66,13 +66,14 @@ params:
   env: production
   defaultTheme: auto
   ShowShareButtons: false
-  ShowReadingTime: true
+  # ShowReadingTime: true
   ShowPostNavLinks: true
   showTranslations: false
   ShowRssButtonInSectionTermList: true
   ShowPageNums: true
-  ShowWordCount: true
+  # ShowWordCount: true
   displayFullLangName: true
+  ShowAllPagesInArchive: true
 
   assets:
     favicon: favicon-16x16.png
