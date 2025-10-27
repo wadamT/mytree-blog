@@ -48,8 +48,8 @@ window.onload = function () {
             }
         }
     };
-    xhr.open("GET", "https://blog.wadamtree.xyz/index.json");
-    xhr.send();
+     xhr.open('GET', "../index.json");
+     xhr.send();
 }
 
 function activeToggle(ae) {
