@@ -1,4 +1,6 @@
 .post-content {
     font-family: 'PT01_PhanTee';
-    src: url("fonts/PT01_PhanTee.woff2") format("woff2"),
+    src: url("fonts/PT01_PhanTee.woff2") format("woff2");
+    line-height: 2;
+    font-size: 20;
 }
