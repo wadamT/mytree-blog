@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "နောက်သို့"
+
+- id: next_page
+  translation: "ရှေ့သို့"
+
+- id: read_time
+  translation:
+    one : "တစ် မိနစ်"
+    other: "{{ .Count }} မိနစ်"
+
+- id: words
+  translation:
+    one : "စာလုံးရေ"
+    other: "စာလုံးရေ {{ .Count }}"
+
+- id: toc
+  translation: "မာတိကာ"
+
+- id: translations
+  translation: "ဘာသာပြန်"
+
+- id: home
+  translation: "ပင်မ"
+
+- id: edit_post
+  translation: "တည်းဖြတ်"
+
+- id: code_copy
+  translation: "ကူးယူပါ"
+
+- id: code_copied
+  translation: "ကူးယူပြီး"
