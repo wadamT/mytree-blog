@@ -1,5 +1,6 @@
 ---
 title: "Katanagatari: NISIO ISIN ရဲ့လူပြောမများတဲ့ anime"
+slug: "katanagatari"
 author: "WadamT"
 date: "2024-04-04"
 tags: ["anime"]

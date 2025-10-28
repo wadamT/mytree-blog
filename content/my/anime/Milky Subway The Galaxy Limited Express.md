@@ -1,5 +1,6 @@
 ---
 title: "Milky Subway The Galaxy Limited Express"
+slug: "milky-galaxy-limited-express"
 author: "WadamT"
 date: "2025-09-18"
 tags: ["anime"]

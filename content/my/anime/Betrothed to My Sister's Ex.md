@@ -1,5 +1,6 @@
 ---
 title: "ကိုယ့်အတွက် Summer 2025 season ရဲ့ hidden gem anime တစ်ခု"
+slug: "betrothed-to-my-sister-ex"
 author: "WadamT"
 date: "2025-08-23"
 tags: ["anime"]

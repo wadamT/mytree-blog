@@ -1,5 +1,6 @@
 ---
 title: "Punch Punch Forever"
+slug: "punch-punch-forever"
 author: "WadamT"
 date: "2024-06-22"
 tags: ["anime"]
