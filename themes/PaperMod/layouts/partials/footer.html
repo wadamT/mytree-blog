@@ -4,9 +4,8 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+	<span>&copy; {{ now.Year }} {{ site.Title }} under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons</a></span>
         {{- end }}
-        {{- print " · "}}
     {{- end }}
 
     {{- with site.Params.footer.text }}
@@ -15,7 +14,7 @@
     {{- end }}
 
     <span>
-        Powered by
+	<br>Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
