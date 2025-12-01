@@ -30,7 +30,9 @@ languages:
       homeInfoParams:
           Title: မင်္ဂလာပါ
           Content: စိတ်ဝင်စားစရာ တွေ့သမျှရေးမည်။ အထူးသဖြင့် anime အကြောင်း
-
+      mainSections:
+          - anime
+          - tech
   en:
     languageName: "English"
     contentDir: content/en
@@ -54,6 +56,9 @@ languages:
       homeInfoParams:
           Title: Welcome
           Content: Writing whatever I find interesting, mostly about anime
+      mainSections:
+          - tech
+
 
 markup:
   goldmark:
