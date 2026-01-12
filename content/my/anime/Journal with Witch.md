@@ -6,7 +6,7 @@ date: "2026-01-12"
 tags: ["anime"]
 cover:
    image: images/journal.webp
-   alt: A poster where black hair duke character is holding red hair female MC hand
+   alt: A poster of lady sitting on the office chair and a female student holding a book on her right, behind them is a laarge collection of books.
 ---
 
 ဒီ Winter 2026 ကတော့ Frieren တို့လိုမျိုး၊ ဒုတိယ season နဲ့ကားကောင်းတွေ ပြန်လာတဲ့ရာသီပါ။ အဲ့တာတွေအပြင် အသစ်ထွက်တဲ့ကားကောင်းတွေအများကြီးလည်း တွေ့မိပါတယ်။ အဲ့ထဲမှာမှ နာမည်ကြည့်ပြီး fantasy anime ထင်ပြီးကြည့်မိတဲ့ "Journal with Witch" ဆိုတဲ့ Josei drama ကိုတော်တော်လည်းကြိုက်နေမိပါတယ်။
