@@ -13,7 +13,7 @@ languages:
     taxonomies:
       tag: tags
     pagination:
-      pagerSize: 4
+      pagerSize: 10
     weight: 1
     menu:
       main:
@@ -39,7 +39,7 @@ languages:
     taxonomies:
       tag: tags
     pagination:
-      pagerSize: 4
+      pagerSize: 10
     weight: 10
     menu:
       main:
