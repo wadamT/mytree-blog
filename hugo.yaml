@@ -94,6 +94,8 @@ params:
   socialIcons:
     - name: "mastodon"
       url: "https://burma.social/@wadam_t"
+    - name: "anilist"
+      url: "https://anilist.co/user/wadamT/"
 
   fuseOpts:
     isCaseSensitive: false
