@@ -1,8 +1,8 @@
 - id: prev_page
-  translation: "နောက်သို့"
+  translation: "ရှေ့စာမျက်နှာ"
 
 - id: next_page
-  translation: "ရှေ့သို့"
+  translation: "နောက်စာမျက်နှာ"
 
 - id: read_time
   translation:
@@ -27,7 +27,7 @@
   translation: "တည်းဖြတ်"
 
 - id: code_copy
-  translation: "ကူးယူပါ"
+  translation: "ကုဒ်ကူးယူပါ"
 
 - id: code_copied
-  translation: "ကူးယူပြီး"
+  translation: "ကုဒ်ကူးယူပြီး"
