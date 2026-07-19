@@ -59,7 +59,6 @@ languages:
       mainSections:
           - tech
 
-
 markup:
   goldmark:
     renderHooks:
