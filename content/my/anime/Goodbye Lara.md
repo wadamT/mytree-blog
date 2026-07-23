@@ -20,5 +20,5 @@ cover:
 ရေသူမလေးလဲ နောက်တစ်ခေါက်လူ့လောက သွားပြန်တယ်။ ဒီတစ်ခေါက်မှာတော့ မင်းသားလေးနဲ့ မတွေ့ပဲ၊ လက်ဝှေ့မယ် ဂျပန်ကျောင်းသူမလေးတစ်ယောက်နဲ့တွေ့တာပေါ့။
 
 ![a screenshot of four scenes, top left: a little mermaid born, top right: prince point sword to mermaid, bottom left: a girl punching flying mermaid, bottom right: said mermaid jumping out from a broken window](/images/goodbye-lara.webp)
-----
+____
 Studio **Kinema Citrus** ရဲ့ ၁၅နှစ်ပြည့်အထိမ်းအမှတ် anime original ပါ။ Original story ဆိုတော့ဘယ်လိုဆက်သွားမလဲ မသိရပေမယ့် animation နဲ့တင်ကြည့်ရတန်နေတဲ့ကားပါ။ Romance ပိုင်းကတော့ yuri ကို ဆက်သွားရဲမလား၊ yuri bait လားတော့ကြည့်ရမှာပဲ။
