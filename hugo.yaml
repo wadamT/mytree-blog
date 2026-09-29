@@ -1,5 +1,5 @@
 baseURL: "https://wadamt.github.io/mytree-blog"
-languageCode: my
+languageLocale: my
 title: WadamT Blog
 theme: ["PaperMod"]
 enableEmoji: true
@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir: false
 
 languages:
   my:
-    languageName: "မြန်မာ"
+    label: "မြန်မာ"
     contentDir: content/my
     taxonomies:
       tag: tags
@@ -34,7 +34,7 @@ languages:
           - anime
           - tech
   en:
-    languageName: "English"
+    label: "English"
     contentDir: content/en
     taxonomies:
       tag: tags
