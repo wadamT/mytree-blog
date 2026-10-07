@@ -5,9 +5,9 @@ author: "WadamT"
 date: "2026-01-12"
 tags: ["anime"]
 cover:
-   image: witch.jxl
-   caption: Journal With Witch
+   image: images/journal-with-witch.jxl
    relative: true
+   caption: Journal With Witch
    alt: A poster of lady sitting on the office chair and a female student holding a book on her right, behind them is a laarge collection of books.
 ---
 

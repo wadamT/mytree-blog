@@ -7,9 +7,10 @@ tags:
   - anime
 cover:
   image: images/a-hundred-scenes-of-awajima-cover.webp
+  relative: true
+  caption: A Hundred Scenes of Awajima
   alt: A poster with four sectors where characters showing different emotions
 ---
-**A Hundred Scenes of Awajima**
 
 ဒီကားကတော့ မထွက်ခင် **AniOne Asia** ကနေတင်လိုက်တဲ့ ပိုစတာကြည့်မိပြီး စိတ်ဝင်စားလို့ trailer သွားကြည့်ဖြစ်ရင်း ကြိုက်မိသွားရာက၊ staff တွေအကြောင်းအနည်းငယ်ရှာကြည့်ပြီး ဒီရာသီမှာကြည့်ဖြစ်အောင်ကြည့်မယ်ဆိုပြီး ကြည့်ဖြစ်သွားတာပါ။ ရှေ့ရာသီမှာပြီးခဲ့တဲ့ **Journal with Witch** ရဲ့နေရာယူမယ့် ဒရာမာကားတစ်ခုပါ။
 
