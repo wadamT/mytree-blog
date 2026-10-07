@@ -63,9 +63,9 @@ markup:
   goldmark:
     renderHooks:
       image:
-        useEmbedded: always
+        useEmbedded: auto
       link:
-        useEmbedded: always
+        useEmbedded: auto
 
 params:
   env: production
@@ -90,7 +90,6 @@ params:
   cover:
     hiddenInList: true
     responsiveImages: true
-    relative: true
 
   socialIcons:
     - name: "mastodon"
