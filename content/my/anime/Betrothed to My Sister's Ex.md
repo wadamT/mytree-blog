@@ -6,9 +6,9 @@ date: "2025-08-23"
 tags: ["anime"]
 cover:
    image: images/betrothed-to-my-sister-ex-cover.webp
+   caption: Betrothed to My Sister's Ex
    alt: A poster where black hair duke character is holding red hair female MC hand
 ---
-**Betrothed to My Sister's Ex**
 
 ခေါင်းစဥ်နဲ့ anime poster ကြည့်ပြီး တွေးလိုက်မယ်ဆိုရင်တော့ ဒီဟာက တွေ့နေကျ villainess/otome anime တစ်ခု၊ မင်းသမီးကို ကိုယ့်တိုင်းပြည်က မင်းသားကကန်ထုတ်လိုက်၊ ပြီးတော့နောက်တစ်နိုင်ငံရောက် မင်းသားနဲ့တွေ့ကြိုက် anime လိုပဲလို့ ထင်စရာရှိပါတယ်။ အမှန်လည်း ဒီဇာတ်လမ်းကလည်း အဲ့ဒီလိုပါပဲ။
 

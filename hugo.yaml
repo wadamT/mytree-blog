@@ -90,6 +90,7 @@ params:
   cover:
     hiddenInList: true
     responsiveImages: true
+    relative: true
 
   socialIcons:
     - name: "mastodon"

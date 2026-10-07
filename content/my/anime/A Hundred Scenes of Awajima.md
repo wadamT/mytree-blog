@@ -7,7 +7,6 @@ tags:
   - anime
 cover:
   image: images/a-hundred-scenes-of-awajima-cover.webp
-  relative: true
   caption: A Hundred Scenes of Awajima
   alt: A poster with four sectors where characters showing different emotions
 ---
