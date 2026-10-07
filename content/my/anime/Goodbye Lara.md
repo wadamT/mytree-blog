@@ -6,7 +6,7 @@ date: 2026-07-17
 tags:
   - anime
 cover:
-  image: images/goodbye-lara-cover.webp
+  image: anime/images/goodbye-lara-cover.webp
   relative: true
   caption: Goodbye Lara
   alt: Anime poster with red-hair mermaid at top section and a Japanese student with bread in her mouth at bottom and title "Goodbye Lara" inbetween

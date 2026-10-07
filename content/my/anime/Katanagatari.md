@@ -5,7 +5,7 @@ author: "WadamT"
 date: "2024-04-04"
 tags: ["anime"]
 cover:
-  image: images/katanagatari-cover.webp
+  image: anime/images/katanagatari-cover.webp
   relative: true
   alt: Two anime characters surrounded by colorful flowers and there are birds and rabbits
 ---

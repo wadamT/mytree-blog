@@ -5,7 +5,7 @@ author: "WadamT"
 date: "2024-06-22"
 tags: ["anime"]
 cover:
-  image: images/ppf-cover.webp
+  image: anime/images/ppf-cover.webp
   relative: true
   ## caption: Punch Punch Forever logo
   alt: anime poster with text Punch Punch Forever

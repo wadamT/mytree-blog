@@ -5,7 +5,7 @@ author: "WadamT"
 date: "2025-09-18"
 tags: ["anime"]
 cover:
-   image: images/milky-highway-cover.webp
+   image: anime/images/milky-highway-cover.webp
    relative: true
    alt: Anime poster featuring main six characters who are aliens and cyborgs and highlighting the space train
 ---
