@@ -6,6 +6,7 @@ date: "2025-09-18"
 tags: ["anime"]
 cover:
    image: images/milky-highway-cover.webp
+   relative: true
    alt: Anime poster featuring main six characters who are aliens and cyborgs and highlighting the space train
 ---
 [Lemmy](https://ani.social) က c/anime မှာရှယ်ထားလို့တွေ့မိတဲ့ indie Japanese animation နောက်တစ်ခုပါ။ အပိုင်း ၁၂ ပိုင်းရှိပြီး တစ်ပိုင်းမှ ၃ မိနစ်လောက်ပဲရှည်တာမလို့ စုစုပေါင်းကြာချိန်က ပုံမှန် anime တစ်ပိုင်းလောက်ပဲ ကြာပါတယ်။ Website မှာဖော်ပြထားတာကတော့ ၂၀၂၂ လောက်ကထွက်ခဲ့တဲ့ ရုပ်ရှင်ကျောင်းသား **Yohei Kameyama** ရဲ့ တစ်ကိုယ်တော် 3d animation ဖြစ်တဲ့ *Milky☆Highway* ရဲ့အဆက်ပါ။

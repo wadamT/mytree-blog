@@ -63,9 +63,9 @@ markup:
   goldmark:
     renderHooks:
       image:
-        useEmbedded: auto
+        useEmbedded: always
       link:
-        useEmbedded: auto
+        useEmbedded: always
 
 params:
   env: production

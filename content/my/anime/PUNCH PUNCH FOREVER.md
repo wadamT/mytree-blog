@@ -6,6 +6,7 @@ date: "2024-06-22"
 tags: ["anime"]
 cover:
   image: images/ppf-cover.webp
+  relative: true
   ## caption: Punch Punch Forever logo
   alt: anime poster with text Punch Punch Forever
 ---
@@ -19,15 +20,15 @@ OP က အဖေဖြစ်သူရဲ့  VHS တိပ်ခွေဟော�
 
 Animation နဲ့ art-style ပုံစံက ၉၀ ဝန်းကျင် စတိုင်၊ ၄:၃ အချိုးနဲ့။ နောက်ပြီးတော့ ဂျပန် စကားပြော။ Story line က မရိုးရအောင် တွေ့နေရတဲ့ anime ဇာတ်လမ်းသွား၊ Demon vs Human tournament။ အဲ့ထဲကိုမှ cartoon ဆန်ဆန် ရယ်စရာအခန်းတွေနဲ့ ဟာသတွေ ထပ်ထည့်ထားပေးတယ်။ **Panty and Stocking** ကြိုက်တဲ့ သူတွေဆိုရင် ကြိုက်လိမ့်မယ်။ အထိက ကတော့ ဟာသကားပေါ့။
 
-![A radio VHF showing corrupted character image](images/ppf-01.webp)
+![A radio VHF showing corrupted character image](/anime/images/ppf-01.webp)
 
-![A tree is highlighted and the character is asking someone is hiding behind one of the trees.](images/ppf-02.webp)
+![A tree is highlighted and the character is asking someone is hiding behind one of the trees.](/anime/images/ppf-02.webp)
 
-![A cartoonish post shouting CHAINSAW](images/ppf-03.webp)
+![A cartoonish post shouting CHAINSAW](/anime/images/ppf-03.webp)
 
 တိပ်ခွေတွေကြည့်နေရတဲ့ feel ရအောင် တစ်ခါတစ်လေ interlacing lines တွေ တမင်ပေါ်ပေါ်လာတတ်တယ်။ ပြီးတော့ စလောင်း ကနေ rip ထားတဲ့ ပုံစံမျိုးကိုမှ စလောင်းက show ကလာတဲ့ကြော်ငြာတွေကိုလည်း ၉၀ အချိန်လို့ ခံစားရအောင် တကယ့် ၉၀ တုန်းက ကြော်ငြာတွေ ထည့်ထားပေးတယ်။ အဲ့အချိန်တွေတုန်းက Fan sub သမားတွေဆီက ခိုးယူပြီး ပြန်တင်နေတဲ့သူတွေကို subtitle ထဲမှာ ဆဲနေတာတွေပါ ပါတယ်။
 
-![A 90s advertisement with subtitle meaning someone reposted subtitles of PPF without fansubbers authorization.](images/ppf-04.webp)
+![A 90s advertisement with subtitle meaning someone reposted subtitles of PPF without fansubbers authorization.](/anime/images/ppf-04.webp)
 _____
 Creator ကတော့ *speedoru* ပါ။ Series ကို [You Tube](https://youtube.com/playlist?list=PLsE71Ou1VsHRPMVCCC9Qf9nqQIwgb4wfb) မှာသွားကြည့်လို့ရတယ်။ အခုမှ အပိုင်း ၂ ပိုင်းပဲရှိသေးတယ်။
 

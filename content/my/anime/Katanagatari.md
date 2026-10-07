@@ -6,6 +6,7 @@ date: "2024-04-04"
 tags: ["anime"]
 cover:
   image: images/katanagatari-cover.webp
+  relative: true
   alt: Two anime characters surrounded by colorful flowers and there are birds and rabbits
 ---
 **Katanagatari (Sword Tale)** ကတော့ *NISIO ISIN* ရဲ့လူပြော မများတဲ့ series တစ်ခုလို့ပြောလို့ရပါတယ်။ အကြောင်းတွေက​တော့ အခုချိန်ထိ တရားဝင် streaming လုပ်လို့မရတာ၊ Blue Ray ပဲဝယ်ကြည့်ရတာတွေ့ကြောင့်လို့ပြောလို့ရပါတယ်။ **The Garden of Sinners** ထွက်ထွက်ချင်းလိုမျိုး​ပေါ့၊ ဒါ​ပေမယ့် သူက [၂၀၁၆​လောက်မှာ streaming](https://www.animenewsnetwork.com/review/the-garden-of-sinners/movies-ovas-1-10/.123065) ကြည့်လို့ရတာဆို​တော့ အခုလူအများကြားဖူးနေပါပြီ။

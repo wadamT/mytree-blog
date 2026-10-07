@@ -6,6 +6,7 @@ date: "2025-08-23"
 tags: ["anime"]
 cover:
    image: images/betrothed-to-my-sister-ex-cover.webp
+   relative: true
    caption: Betrothed to My Sister's Ex
    alt: A poster where black hair duke character is holding red hair female MC hand
 ---

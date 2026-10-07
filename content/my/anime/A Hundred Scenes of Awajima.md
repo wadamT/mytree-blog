@@ -7,6 +7,7 @@ tags:
   - anime
 cover:
   image: images/a-hundred-scenes-of-awajima-cover.webp
+  relative: true
   caption: A Hundred Scenes of Awajima
   alt: A poster with four sectors where characters showing different emotions
 ---
@@ -17,7 +18,7 @@ cover:
 
 ဇာတ်လမ်းက ဇာတ်လိုက်မင်းသမီးတစ်ဦးကိုပဲ အထိကမထားတဲ့အတွက် မတူညီတဲ့နောက်ခံကနေလာတဲ့ ကျောင်းသား၊ ဆရာမတွေရဲ့ ကျောင်းမရောက်ခင်အတိတ်ဘဝ၊ ကျောင်းသားဘဝ၊ ဇာတ်စင်ပေါ်ကဘဝတွေအပြင် တစ်ချို့ကျကျောင်းနဲ့လုံးဝမဆိုင်တဲ့ ပြဇာတ်ပရိတ်သတ်တွေ့ရဲ့ဘဝတွေပါတွေ့ရတော့ တစ်ချို့အပိုင်းတွေကျ ဝမ်းနည်းစရာကောင်းသလိုလို၊ တစ်ချို့အပိုင်းတွေကျ ချစ်စရာကောင်းသလို ခံစားချက်မျိုးစုံကိုပေးပါတယ်။ ဇာတ်ကောင်တစ်ယောက်ချင်းစီရဲ့ မတူညီတဲ့အမျိုးမျိုးသော ခက်ခဲမှုတွေကို ဘယ်လိုကြုံတွေ့ဖြတ်ကျော်ခဲ့ရတာတွေကို နောက်ခံတေးသီချင်းညိမ့်ညိမ့်လေးနဲ့ ရေဆေးပန်းချီဆန်ဆန်ပုံတွေနဲ့ပါ animated လုပ်ထားတာတွေက ဇာတ်လမ်းထဲကို ပိုပြီးဆွဲဆောင်မှုရှိစေတယ်။ နောက်ပြီး  ကိုယ်တွေအတွက်တော့ ဒီနေ့ထွက်ခဲ့တဲ့ အခန်း ၅ ကတော့ကွက်တိထိမိတယ်၊ မြန်မာကလူအများစုနဲ့လည်း ဒီအခန်းကလိုမျိုး တစ်နည်းမဟုတ်တစ်နည်းနဲ့ ကြုံဖူးကျမယ်ထင်တယ်။
 
-![a pic of four different scenes where first scene is a stage play actress acting, second is a boy and a girl interview sitting outside, third is a close-in picture of a red hair girl, fourth is mother hugging a child](/images/a-hundred-scenes-of-awajima-ep.webp)
+![a pic of four different scenes where first scene is a stage play actress acting, second is a boy and a girl interview sitting outside, third is a close-in picture of a red hair girl, fourth is mother hugging a child](/anime/images/a-hundred-scenes-of-awajima-ep.webp)
 
 Production ကောင်းကောင်းနဲ့ ဒရာမာဇာတ်လမ်းကောင်းတစ်ခု ရှာနေတယ်ဆိုရင် ဒီကားကိုကြည့်ကြည့်ပါ။ [AniOne Asia YouTube Channel](https://www.youtube.com/playlist?list=PLxSscENEp7JjWZOD_IeD4sSKU4icerKBZ) မှာ ကြည့်လို့ရပါတယ်။
 
